@@ -1,0 +1,4 @@
+.venv/
+out/
+run_log.txt
+__pycache__/
